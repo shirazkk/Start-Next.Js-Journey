@@ -1,0 +1,15 @@
+
+body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my-h1{
+    color: red;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 3em;
+    width: 400px;
+}
