@@ -1,0 +1,33 @@
+- a function in tsx file is called jsx (javascript xhml) where we write return html
+
+
+ jsx rule
+- parent tag me html me honi chaiye 
+- html closing tag me hona chaiye open nhi chorna
+- <> write html inside this fragments </>
+
+for exampple we want About page so we make folder and then inside we make page.tsx file.
+
+aikh page se dosre page me jana routing khelta ha.
+
+link krne ke iye link tag capital me likhna ha or import bi krna ha
+
+link tag ka sahi name components.
+
+what is components?
+aikh component bana diya for example aikh header alag se file bana di phir usko har section me reuse kr skte ha import krke..
+
+already jo page.tsx file banii hoti ha wo root hota ha hamra mtlb homepage 
+
+layout.tsx file ko wrap krti ha     layout.tsx sare page ko render krti ha or isko hum wrap kehte ha 
+
+page.tsx ko layout.tsx wrap kr rahi ha. or yeh feature next js khud kr raha ha.
+
+page.tsx ka dosra name children ha layout.tsx me agr render krna ha oage.tsx layout.tsx me.
+
+parameter me {children} likhna hota ha
+
+next js sabse phele layout.tsx ko dekhta ha
+
+
+

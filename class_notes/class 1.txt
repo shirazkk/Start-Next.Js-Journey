@@ -1,0 +1,35 @@
+. next js is a framework of javascript.
+. react library written by facebook.
+. library mean go in multiple place 
+. framework mean all in one sari chize aikh he jagha hoti ha.
+ 
+- react run on client side rendering
+- client pe rendring krta ta react 
+
+
+01) using next js we make templates brand design
+02) prerequirest:
+creating ui/ux
+ui ->(client)
+ux -> (user experience) 
+website to visit
+. figma tool
+. Theme forest
+
+
+next js core component
+(
+APP router
+SSR
+CSR
+SSR (static side rendring)
+DSR (Dynamic side rendring)
+)
+also learn react hooks
+
+
+interface ka mtlb kam leta ha or dosro se krwata ha 
+
+
+npx create-next-app .
+npm run dev

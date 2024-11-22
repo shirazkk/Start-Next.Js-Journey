@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.heading {
+  color: red;
+  background-color: blue;
+  font-size: 100px;
+}

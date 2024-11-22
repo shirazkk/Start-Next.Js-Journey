@@ -7,13 +7,12 @@ h2{
     align-items: center;
     justify-content: end;
     width: 100%;
+    background-color: lightblue;
    
 }
 .link-tag{
-    padding: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
     border-radius:10px;
-    background-color: lightblue;
-   
-   
 
 }
